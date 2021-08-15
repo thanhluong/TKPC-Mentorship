@@ -2,6 +2,7 @@
 
 ## Thông tin
 
+- Thông tin từng team: [Link](https://docs.google.com/spreadsheets/d/1YmJxXGPtj-JG5KiarXxlgudKyhFcbhiMeDEf61cPBQ8/)
 - Lịch train từng team: [Link](https://docs.google.com/spreadsheets/d/1zrjm3kGagjs9JOpsHrxCJOJbQt2yBTCmTVLT4Ggg-aw/edit)
 - Thông tin tài khoản: [Link](https://docs.google.com/spreadsheets/d/1YFrraKzgHby-r9fKfYnOx2SlObgtTUiW951eufEwKBU)
 
