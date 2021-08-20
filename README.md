@@ -26,3 +26,10 @@
   - Thực hành: [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)
   - Thực hành: [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)
   - Thực hành: [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)
+- Buổi 2:
+  - Mentor giảng cho mentee về mảng tĩnh, mảng động và độ phức tạp tính toán.
+  - Link slide: [link](https://docs.google.com/presentation/d/1R9Tu78UsgcieFcbLT_q7njQfZHlmwxDBYwWN9eA3mzk)
+  - **Reading**: [C++ Arrays](https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm)
+  - **Reading**: Mục 2.2 sách [DSAP Textbook của thầy Hoàng](http://c3giongrieng.edu.vn/images/images_logo/f_174.pdf)
+  - Thực hành mảng: [Link 1](https://www.hackerrank.com/challenges/arrays-introduction/problem), [Link 2](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)
+  - Thực hành vector: [Link 1](https://www.hackerrank.com/challenges/vector-sort), [Link 2](https://www.hackerrank.com/challenges/vector-erase)
